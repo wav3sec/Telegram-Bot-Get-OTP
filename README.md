@@ -487,6 +487,14 @@ A: Yes, all calls are recorded and sent to you via Telegram for quality assuranc
 
 ---
 
+## 📞 Contact & Support
+
+**Need help or want to purchase membership?**
+
+💬 Contact: [@ccidxx](https://t.me/ccidxx) &  [@ccidxx](https://t.me/backuplustx)
+
+---
+
 **⭐ Star this repository if you find it valuable!**
 
 *Professional voice verification solution | Powered by Azure AI | Built for reliability*
