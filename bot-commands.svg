@@ -1,0 +1,70 @@
+<svg width="800" height="1400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="1400" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffd700" text-anchor="middle">🎆 Welcome To Lust-X OTP Bot 🎆</text>
+  
+  <!-- Important Notice -->
+  <rect x="50" y="90" width="700" height="90" rx="10" fill="#ff6b6b" opacity="0.2"/>
+  <text x="400" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ff6b6b" text-anchor="middle">⚠️ IMPORTANT: Before making calls, please set up:</text>
+  <text x="400" y="145" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">🔊 /cv  | Change Voice for Calls</text>
+  <text x="400" y="165" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">📲 /setphone | Set Phone Number for Calls</text>
+  
+  <!-- Account Information -->
+  <text x="50" y="220" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#4ecdc4">🛎️ Account Information :</text>
+  <text x="70" y="250" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">📬 /status | Check your subscription status</text>
+  <text x="70" y="275" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">🪙 /mycredit | Check your credits (for credit-based members)</text>
+  <text x="70" y="300" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">🔖 /redeem | Redeem your voucher code</text>
+  
+  <!-- Calling Commands -->
+  <text x="50" y="345" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#4ecdc4">🛎️ Calling Commands :</text>
+  <text x="70" y="375" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">📞 /call | Get Any OTP (PayPal, Amazon, CoinBase, etc)</text>
+  <text x="70" y="400" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">📞 /xcall | Get Any OTP (Can Request CVV,PIN,DOB,SSN)</text>
+  <text x="70" y="425" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">📞 /customcall | Get Any OTP (With Custom Script)</text>
+  <text x="70" y="450" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">💳 /cvv | Get CVV Code</text>
+  <text x="70" y="475" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">💳 /cvc | Get CVC Code</text>
+  <text x="70" y="500" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">💳 /csc | Get CSC Code</text>
+  <text x="70" y="525" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">🏧 /pin | Get PIN Code</text>
+  <text x="70" y="550" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">🏣 /ssn | Get SSN Details</text>
+  <text x="70" y="575" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">🏦 /acn | Get Bank Account Number</text>
+  <text x="70" y="600" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">💳 /fcn | Get Full Card Details</text>
+  <text x="70" y="625" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">💳 /ocn | Get Only Card Number</text>
+  
+  <!-- Settings -->
+  <text x="50" y="670" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#4ecdc4">🛎️ Settings :</text>
+  <text x="70" y="700" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">🔊 /cv | Change Voice for Calls</text>
+  <text x="70" y="725" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">📲 /setphone | Set Phone Number for Calls</text>
+  
+  <!-- Examples -->
+  <text x="50" y="770" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffd700">🛎️ Examples :</text>
+  <text x="70" y="800" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/customcall +12345678900 John-Doe 6 PayPal</text>
+  <text x="70" y="825" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/xcall +12345678900 John-Doe 6 PayPal</text>
+  <text x="70" y="850" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/call +12345678900 John-Doe 6 Paypal</text>
+  <text x="70" y="875" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/cvv +12345678900 John-Doe One-Bank Platinum 6778 3</text>
+  <text x="70" y="900" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/cvc +12345678900 John-Doe One-Bank Platinum 6778 3</text>
+  <text x="70" y="925" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/csc +12345678900 John-Doe One-Bank Platinum 6778 3</text>
+  <text x="70" y="950" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/ssn +12345678900 John-Doe</text>
+  <text x="70" y="975" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/pin +12345678900 John-Doe One-Bank 4</text>
+  <text x="70" y="1000" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/acn +12345678900 John-Doe One-Bank</text>
+  <text x="70" y="1025" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/fcn +12345678900 John-Doe One-Bank Platinum 6778</text>
+  <text x="70" y="1050" font-family="Consolas, monospace" font-size="12" fill="#95e1d3">/ocn +12345678900 John-Doe One-Bank Platinum 6778</text>
+  
+  <!-- Footer -->
+  <line x1="100" y1="1100" x2="700" y2="1100" stroke="#4ecdc4" stroke-width="2"/>
+  <text x="400" y="1140" font-family="Arial, sans-serif" font-size="14" fill="#95e1d3" text-anchor="middle">⭐ Professional Voice OTP Verification Bot</text>
+  <text x="400" y="1165" font-family="Arial, sans-serif" font-size="12" fill="#888888" text-anchor="middle">Powered by Azure AI | Enterprise-Grade Voice Technology</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="30" cy="220" r="5" fill="#4ecdc4" opacity="0.5"/>
+  <circle cx="30" cy="345" r="5" fill="#4ecdc4" opacity="0.5"/>
+  <circle cx="30" cy="670" r="5" fill="#ffd700" opacity="0.5"/>
+  <circle cx="30" cy="770" r="5" fill="#ffd700" opacity="0.5"/>
+</svg>
