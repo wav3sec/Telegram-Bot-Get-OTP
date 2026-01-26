@@ -489,9 +489,11 @@ A: Yes, all calls are recorded and sent to you via Telegram for quality assuranc
 
 ## 📞 Contact & Support
 
-**need help, buy a script or subscribe to a membership?**
+**need help to install in your system/vps, buy a script or subscribe to a membership?**
 
-💬 Contact: [@ccidxx](https://t.me/ccidxx) &  [@backuplustx](https://t.me/backuplustx)
+💬 Contact: [@backuplustx](https://t.me/backuplustx) & [@ccidxx](https://t.me/ccidxx)
+
+            or email to irichard84[at]proton.me
 
 ---
 
